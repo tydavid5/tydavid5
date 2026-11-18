@@ -21,8 +21,8 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tydavid5&show_icons=true&theme=default" alt="5's GitHub stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydavid5&layout=compact&theme=default" alt="Most used languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tydavid5&show_icons=true&theme=default" alt="5's GitHub stats" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydavid5&layout=compact&theme=default" alt="Most used languages" width="40%" />
 </p>
 
 ## Featured work
@@ -44,5 +44,4 @@
 
 ## Elsewhere
 
-- LinkedIn: https://www.linkedin.com/in/taiwo-john-3b52833a3
 - Devpost: https://devpost.com/tydavid5
