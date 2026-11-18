@@ -6,8 +6,8 @@
 
 ### About me
 
-- MSc Immunology, University of Ibadan. BSc Microbiology.
-- I build in JavaScript, TypeScript and Python: web apps, AI agents, wallets and health tools.
+- MSc Immunology, University of Ibadan. BSc Microbiology 📚 🧪
+- I build in JavaScript, TypeScript and Python: web apps, AI agents, wallets and health tools 👨🏾‍💻
 - Chess and open source contributions in my free time ♟️🔧
 
 ## Tech stack
