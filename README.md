@@ -12,18 +12,18 @@
 
 ## Tech stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,firebase,nodejs)](https://skillicons.dev)
+
+</div>
 
 ## GitHub stats
 
-![5's GitHub stats](https://github-readme-stats.vercel.app/api?username=tydavid5&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tydavid5&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tydavid5&show_icons=true&theme=default" alt="5's GitHub stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tydavid5&layout=compact&theme=default" alt="Most used languages" height="190" />
+</p>
 
 ## Featured work
 
@@ -43,4 +43,6 @@
 - Hermes Agent, PR 150638: add Recall Vault to the plugin catalog. Merged.
 
 ## Elsewhere
+
+- LinkedIn: https://www.linkedin.com/in/taiwo-john-3b52833a3
 - Devpost: https://devpost.com/tydavid5
