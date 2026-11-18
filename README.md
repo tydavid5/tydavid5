@@ -2,7 +2,7 @@
 
 MSc Immunology, University of Ibadan. BSc Microbiology.
 
-I build working softwares that solves a pain point, then I keep it working. JavaScript, TypeScript and Python. React and Next.js, Firebase, NEAR, Sui, Bitcoin Signet, and Atlassian Forge.
+Build working softwares that solves pain points, then try to keep them working. JavaScript, TypeScript and Python. React and Next.js, Firebase, NEAR, Sui, Bitcoin Signet, and Atlassian Forge.
 
 ## Featured work
 
