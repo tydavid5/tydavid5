@@ -46,4 +46,3 @@
 
 - LinkedIn: https://www.linkedin.com/in/taiwo-john-3b52833a3
 - Devpost: https://devpost.com/tydavid5
-- X (Twitter): https://x.com/arc5ive_
