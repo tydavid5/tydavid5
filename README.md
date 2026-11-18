@@ -1,17 +1,14 @@
 <div align="center">
 
-# Hey! I'm 5
-
-### Taiwo John • Building softwares that attack pain points and try to keep them working
+![Hey! I'm 5](header.png)
 
 </div>
 
-## About me
+### About me
 
 - MSc Immunology, University of Ibadan. BSc Microbiology.
 - I build in JavaScript, TypeScript and Python: web apps, AI agents, wallets and health tools.
-- I open source real fixes I find while using the tools, not docs tweaks.
-- Every project below opens with the problem in one sentence, then how it works, then a live demo.
+- Chess and open source contributions in my free time ♟️🔧
 
 ## Tech stack
 
