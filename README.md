@@ -4,10 +4,12 @@
 
 </div>
 
+<p align="center"><strong>AI Software Engineer · JavaScript, TypeScript and Python · Open Source</strong></p>
+
 ### About me
 
-- MSc Immunology, University of Ibadan. BSc Microbiology 📚 🧪
-- I build in JavaScript, TypeScript and Python: web apps, AI agents, wallets and health tools 👨🏾‍💻
+- MSc Immunology, University of Ibadan. BSc Microbiology.
+- I build in JavaScript, TypeScript and Python: web apps, AI agents, wallets and health tools.
 - Chess and open source contributions in my free time ♟️🔧
 
 ## Tech stack
@@ -42,7 +44,7 @@
 - QoreChain SDK, PR 3: make broadcast results JSON serializable, gas as a number, not bigint.
 - Hermes Agent, PR 150638: add Recall Vault to the plugin catalog. Merged.
 
-## Find me elsewhere
+## Elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/taiwo-john-3b52833a3
 - Devpost: https://devpost.com/tydavid5
