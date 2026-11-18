@@ -1,16 +1,16 @@
-# Taiwo John (Five)
+# 5
 
 MSc Immunology, University of Ibadan. BSc Microbiology.
 
-I build working software that solves a real problem, then I keep it working. JavaScript, TypeScript and Python. React and Next.js, Firebase, NEAR, Sui, Bitcoin Signet, and Atlassian Forge.
+I build working softwares that solves a pain point, then I keep it working. JavaScript, TypeScript and Python. React and Next.js, Firebase, NEAR, Sui, Bitcoin Signet, and Atlassian Forge.
 
 ## Featured work
 
 | Project | Problem, in one sentence | Stack | Live |
 | --- | --- | --- | --- |
 | FieldCare | Rural health workers need triage help when they are offline, and a fuller care plan when they are back online. | JavaScript, Firebase, Gemini | https://fieldcare.vercel.app |
-| Bloop | The internet has no common room to read, play, listen and hang out together. | JavaScript, HTML, PWA | https://bloop-common-room.netlify.app |
-| LearnSats | Bitcoin is hard to learn in plain English, and harder to try without real money. | JavaScript, Bitcoin Signet | https://learnsats.vercel.app |
+| Bloop | Common room on the internet ; read, play, listen and hang out together. | JavaScript, HTML, PWA | https://bloop-common-room.netlify.app |
+| LearnSats | Bitcoin can be hard to learn in plain English, and harder to try without real money. | JavaScript, Bitcoin Signet | https://learnsats.vercel.app |
 | Recall Wallet | An agent wallet needs memory, so it can check a payment against rules before it pays. | JavaScript, NEAR, Chain Signatures | https://recall-wallet-dusky.vercel.app |
 | Quantum Escrow | Escrow should still hold when quantum computers arrive. | TypeScript, QoreChain, ML-DSA | https://quantum-escrow.vercel.app |
 | Handover | When someone leaves a team, their work and context leave with them. | JavaScript, Atlassian Forge, Rovo, MCP | https://one-atlas-zaly.atlassian.net |
