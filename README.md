@@ -43,6 +43,4 @@
 - Hermes Agent, PR 150638: add Recall Vault to the plugin catalog. Merged.
 
 ## Elsewhere
-
-- LinkedIn: https://www.linkedin.com/in/taiwo-john-3b52833a3
 - Devpost: https://devpost.com/tydavid5
