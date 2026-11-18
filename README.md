@@ -42,7 +42,8 @@
 - QoreChain SDK, PR 3: make broadcast results JSON serializable, gas as a number, not bigint.
 - Hermes Agent, PR 150638: add Recall Vault to the plugin catalog. Merged.
 
-## Elsewhere
+## Find me elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/taiwo-john-3b52833a3
 - Devpost: https://devpost.com/tydavid5
+- X (Twitter): https://x.com/arc5ive_
