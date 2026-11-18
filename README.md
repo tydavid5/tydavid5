@@ -4,8 +4,6 @@
 
 </div>
 
-<p align="center"><strong>AI Software Engineer · JavaScript, TypeScript and Python · Open Source</strong></p>
-
 ### About me
 
 - MSc Immunology, University of Ibadan. BSc Microbiology.
