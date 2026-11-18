@@ -12,11 +12,7 @@
 
 ## Tech stack
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,firebase,nodejs)](https://skillicons.dev)
-
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,firebase,nodejs" height="32" alt="Tech stack" />
 
 ## GitHub stats
 
