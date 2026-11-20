@@ -41,3 +41,4 @@
 ## Elsewhere
 
 - Devpost: https://devpost.com/tydavid5
+- Kaggle: https://www.kaggle.com/arc5ive
