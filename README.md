@@ -25,11 +25,11 @@
 
 | Project | Problem, in one sentence | Stack | Live |
 | --- | --- | --- | --- |
-| Bloop | The internet has no common room to read, play, listen and hang out together. | JavaScript, HTML, PWA | https://bloop-common-room.netlify.app |
-| FieldCare | Rural health workers need triage help when they are offline, and a fuller care plan when they are back online. | JavaScript, Firebase, Gemini | https://fieldcare.vercel.app |
-| Immune Response Simulator | Immunity is hard to picture, from one body to a whole population. | Interactive simulation | https://github.com/tydavid5/immune-response-simulator |
+| Bloop | The internet's common room to read, play, listen and hang out together. | JavaScript, HTML, PWA | https://bloop-common-room.netlify.app |
+| FieldCare | Offer Rural health workers triage assistance when they are offline, and a fuller care plan when they are back online. | JavaScript, Firebase, Gemini | https://fieldcare.vercel.app |
+| Immune Response Simulator | Helps Students & Professionals picture Immunity from one body down to a whole population. | Interactive simulation | https://github.com/tydavid5/immune-response-simulator |
 | LearnSats | Bitcoin is hard to learn in plain English, and harder to try without real money. | JavaScript, Bitcoin Signet | https://learnsats.vercel.app |
-| Devil's Advocate | Everyone falls in love with their own idea, and no one around them will say the hard truth about it. | JavaScript, SERV AI | https://devils-advocate-hazel.vercel.app |
+| Devil's Advocate | Everyone falls in love with their own idea, and no one around them says the hard truth about it. | JavaScript, SERV AI | https://devils-advocate-hazel.vercel.app |
 
 ## Open source
 
