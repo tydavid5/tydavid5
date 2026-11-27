@@ -25,6 +25,7 @@
 
 | Project | Problem, in one sentence | Stack | Live |
 | --- | --- | --- | --- |
+| Anfààní | People in Nigeria waste applications on jobs marked remote that are not actually open to where they live. | JavaScript, Node.js, Vercel | https://anfaani-amber.vercel.app |
 | Bloop | The internet's common room to read, play, listen and hang out together. | JavaScript, HTML, PWA | https://bloop-common-room.netlify.app |
 | FieldCare | Offer Rural health workers triage assistance when they are offline, and a fuller care plan when they are back online. | JavaScript, Firebase, Gemini | https://fieldcare.vercel.app |
 | Immune Response Simulator | Helps Students & Professionals picture Immunity from one body down to a whole population. | Interactive simulation | https://github.com/tydavid5/immune-response-simulator |
